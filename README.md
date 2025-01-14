@@ -1,6 +1,3 @@
----
-
-```markdown
 # Vocabulary Builder App
 
 A React Native vocabulary-building app with an onboarding flow, built using **Expo Router**, **TypeScript**, and **MMKV** for local storage.
@@ -11,8 +8,6 @@ A React Native vocabulary-building app with an onboarding flow, built using **Ex
 - Persistent storage using MMKV for fast and efficient data handling.
 - Seamless navigation with Expo Router.
 - Dark and light mode support.
-
----
 
 ## 🛠️ Setup Instructions
 
